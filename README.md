@@ -68,10 +68,6 @@
 | 🛵 | **[OmnyaDriver](https://driver.omnyatech.com.br/)** | App para entregadores: jornadas, ganhos, despesas, manutenção e metas em um só fluxo. |
 | ✨ | **[Zelo Auto Estética](https://zelo.omnyatech.com.br/)** | Landing page cinematográfica com cena 3D, animações por scroll e galeria do Instagram. |
 
-<div align="center">
-<a href="https://github.com/OmnyaTech/Driver"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OmnyaTech&repo=Driver&bg_color=0d1117&title_color=F18A4B&icon_color=73E2F1&text_color=C9D1D9&border_color=30363d&hide_border=false" width="49%"></a>
-<a href="https://github.com/Yan-Oliv/zelo_auto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Yan-Oliv&repo=zelo_auto&bg_color=0d1117&title_color=F18A4B&icon_color=73E2F1&text_color=C9D1D9&border_color=30363d&hide_border=false" width="49%"></a>
-</div>
 
 ## ⟢ Stack
 
@@ -85,10 +81,10 @@
 ## ⟢ Atividade
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yan-Oliv&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=F18A4B&icon_color=73E2F1&text_color=C9D1D9&border_color=30363d&hide_border=false" height="165" alt="Estatísticas">
-<img src="https://streak-stats.demolab.com?user=Yan-Oliv&background=0d1117&ring=F18A4B&fire=F18A4B&currStreakLabel=F18A4B&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363d&border=30363d&locale=pt_BR" height="165" alt="Sequência de contribuições">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yan-Oliv&theme=github_dark" height="160" alt="Estatísticas">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Yan-Oliv&theme=github_dark" height="160" alt="Linguagens mais usadas">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yan-Oliv&layout=compact&langs_count=8&bg_color=0d1117&title_color=F18A4B&icon_color=73E2F1&text_color=C9D1D9&border_color=30363d&hide_border=false" height="150" alt="Linguagens">
+<img src="https://streak-stats.demolab.com?user=Yan-Oliv&background=0d1117&ring=F18A4B&fire=F18A4B&currStreakLabel=F18A4B&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=30363d&border=30363d&locale=pt_BR" height="160" alt="Sequência de contribuições">
 </div>
 
 <div align="center">
